@@ -8,12 +8,12 @@
   },
   "keywords": [
     "mybot op"
-		],
-		"dependencies": {
-			"discord.js": "^11.5.0",
-			"fs": "0.0.1-security"
-		},
-		"homepage": "https://github.com/cratermaik",
+  ],
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "fs": "0.0.1-security"
+   },
+  "homepage": "https://github.com/cratermaik",
   "author": "CraterMaik",
   "license": "MIT"
 }
