@@ -1,0 +1,19 @@
+{
+  "name": "mybot-op",
+  "version": "1.0.0",
+  "description": "Estructura de los archivos de la guia MyBOT OP",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mybot op"
+		],
+		"dependencies": {
+			"discord.js": "^11.5.0",
+			"fs": "0.0.1-security"
+		},
+		"homepage": "https://github.com/cratermaik",
+  "author": "CraterMaik",
+  "license": "MIT"
+}
