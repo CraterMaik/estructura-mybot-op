@@ -1,4 +1,4 @@
-module.exports = (client) => { // Function for when client has logged in.
+module.exports = (client) => {
 
 	client.user.setPresence( 
 		{
