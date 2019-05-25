@@ -1,4 +1,4 @@
-var config = {
+let config = {
 	token: "TOKEN_BOT", 
 	prefix: "!", 
 
